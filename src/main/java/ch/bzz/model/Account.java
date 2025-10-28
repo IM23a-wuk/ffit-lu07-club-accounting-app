@@ -1,5 +1,4 @@
 package ch.bzz.model;
-
 import lombok.Getter;
 import lombok.Setter;
 import lombok.NoArgsConstructor;
